@@ -10,13 +10,13 @@ body {
 
 img {
   position: absolute;
-  top: 70%;
+  top: 80%;
   left: 50%;
   width: 50px;
   height: 50px; 
 }
 p.d {
-  font-size: 30px;
+  font-size: 40px;
   position: fixed;
   top: 50%;
   left: 50%;
@@ -25,7 +25,7 @@ p.d {
 }
   
 p.t {
-  font-size: 20px;
+  font-size: 50px;
   position: fixed;
   top: 60%;
   left: 50%;
@@ -34,7 +34,7 @@ p.t {
 }
   
 h1 {
-  font-size:50px ;
+  font-size:60px ;
   position: fixed;
   top: 40%;
   left: 50%;
