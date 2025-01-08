@@ -1,13 +1,12 @@
 
 body {
-    margin: 0; 
-    height: 100vh; 
-    background-image: url('../img/vibrant-night-sky-with-stars-nebula-galaxy.jpg'); 
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-  }
-
+  margin: 0; 
+  height: 100vh; 
+  background-image: url('../img/19194.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
 img {
   position: absolute;
   top: 80%;
@@ -16,21 +15,21 @@ img {
   height: 50px; 
 }
 p.d {
-  font-size: 40px;
+  font-size: 30px;
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
   
 p.t {
-  font-size: 50px;
+  font-size: 20px;
   position: fixed;
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
   
 h1 {
@@ -39,5 +38,5 @@ h1 {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #000000;
+  color: #ffffff;
 }
