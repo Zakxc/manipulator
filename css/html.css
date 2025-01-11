@@ -15,17 +15,16 @@ img {
 p.d {
   font-size: 70px;
   position: fixed;
-  top: 40%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(255, 255, 255);
-  white-space: nowrap;
 }
   
 p.t {
-  font-size: 60px;
+  font-size: 40px;
   position: fixed;
-  top: 70%;
+  top: 60%; 
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(255, 255, 255);
@@ -34,7 +33,7 @@ p.t {
 h1 {
   font-size:90px ;
   position: fixed;
-  top: 20%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #ffffff;
