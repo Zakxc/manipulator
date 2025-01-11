@@ -19,12 +19,13 @@ p.d {
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(255, 255, 255);
+  white-space: nowrap;
 }
   
 p.t {
   font-size: 60px;
   position: fixed;
-  top: 60%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: rgb(255, 255, 255);
